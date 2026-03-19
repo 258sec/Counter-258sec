@@ -3,7 +3,7 @@
 
 Este proyecto es un contador de segundos desarrollado con React que actualiza el tiempo en tiempo real. Muestra los segundos en un formato de 6 dígitos (000000) y renderiza cada número individualmente para simular un display digital.
 
-El contador se actualiza automáticamente cada segundo usando setInterval, re-renderizando el componente con el nuevo valor.
+El contador se actualiza automáticamente cada segundo usando setInterval,renderizando el componente con el nuevo valor.
 
 🚀 Demo
 
